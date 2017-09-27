@@ -1,7 +1,7 @@
 {
-    "name": "akeneo-labs/spreadsheet-parser",
-    "description": "Akeneo Spreadsheet parser. Reads XLXS files from Microsoft Excel and Open Office",
-    "keywords": ["akeneo", "excel", "xlsx", "reader", "parser", "spreadsheet"],
+    "name": "disalvo/spreadsheet-parser",
+    "description": "Enhanced Akeneo Spreadsheet parser. Reads XLXS files from Microsoft Excel and Open Office",
+    "keywords": ["disalvo", "akeneo", "excel", "xlsx", "reader", "parser", "spreadsheet"],
     "homepage": "http://akeneo.com",
     "license": "OSL-3.0",
     "authors": [
@@ -18,6 +18,10 @@
         {
             "name": "JM Leroux",
             "email": "jean-marie.leroux@akeneo.com"
+        },
+        {
+            "name": "Alexandre Di Salvo",
+            "email": "disalvo.alexandre@gmail.com"
         }
     ],
     "require": {
