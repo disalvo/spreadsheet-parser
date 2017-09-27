@@ -14,7 +14,7 @@ Installing the package
 From your application root:
 
 ```bash
-    $ php composer.phar require --prefer-dist "akeneo-labs/spreadsheet-parser"
+    $ php composer.phar require --prefer-dist "disalvo/spreadsheet-parser"
 ```
 
 Usage
